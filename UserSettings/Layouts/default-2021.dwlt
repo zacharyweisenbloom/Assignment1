@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 796
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -326,14 +326,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/zacharyweisenbloom/Desktop/Unity Projects/assignment1
+  m_LastProjectPath: /Users/zacharyweisenbloom/Documents/GitHub/Assignment1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 965b0000
-    m_LastClickedID: 23446
-    m_ExpandedIDs: 00000000885b000000ca9a3b
+    m_SelectedIDs: b07f0000
+    m_LastClickedID: 32688
+    m_ExpandedIDs: 00000000a67f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000885b0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -493,7 +493,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 34fbffff
+      m_ExpandedIDs: 40d2ffff24d4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 357.6952, y: 198.62083, z: 0.8943963}
+    m_Target: {x: 460.66138, y: 265.71475, z: -1.7295727}
     speed: 2
-    m_Value: {x: 357.6952, y: 198.62083, z: 0.8943963}
+    m_Value: {x: 460.66138, y: 265.71475, z: -1.7295727}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -829,9 +829,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 369.09747
+    m_Target: 631.4948
     speed: 2
-    m_Value: 369.09747
+    m_Value: 631.4948
   m_Ortho:
     m_Target: 1
     speed: 2
